@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+build/
+*.spec
+*.pcap
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
